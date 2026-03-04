@@ -1,0 +1,5 @@
+{
+  "username": "your_username",
+  "project_title": "your_project_name",
+  "_comment": "将此文件复制为 config.json 到你的项目目录中（与 elements_config.json 同级）"
+}

@@ -1,0 +1,670 @@
+{
+  "episode_count": 1,
+  "frames_per_episode": 24,
+  "total_duration_seconds": 60,
+  "visual_style": "纯写实+电影级，人物面部精美",
+  "episodes": [
+    {
+      "episode_number": 1,
+      "title": "觉醒：红色药丸",
+      "duration_seconds": 60,
+      "frames": [
+        {
+          "frame_number": 1,
+          "time_start": 0.0,
+          "time_end": 2.5,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "尼奥",
+              "action": "站在舱口，警惕环视",
+              "expression": "紧张迷茫"
+            },
+            {
+              "variant_id": "char_02_v1",
+              "name": "墨菲斯",
+              "action": "背对镜头，站在控制台前",
+              "expression": "沉稳"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "尼布甲尼撒号核心舱内，绿色全息光流淌，尼奥站在舱门口，墨菲斯背影屹立于控制台前，气氛神秘压迫",
+          "camera": {
+            "type": "中景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": {
+            "text": "真相，有时比谎言更残酷",
+            "emotion": "低沉神秘"
+          },
+          "dialogue": null,
+          "sfx": "金属舱体低频嗡鸣，电流声"
+        },
+        {
+          "frame_number": 2,
+          "time_start": 2.5,
+          "time_end": 5.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v1",
+              "name": "墨菲斯",
+              "action": "缓缓转身，墨镜反光",
+              "expression": "严肃沉稳"
+            }
+          ],
+          "scene_variant_id": "scene_01_v2",
+          "prop_variant_ids": [],
+          "scene_description": "墨菲斯特写，墨镜镜片反射绿色代码，表情深邃，缓缓转身面向尼奥",
+          "camera": {
+            "type": "近景",
+            "movement": "推",
+            "angle": "仰视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "墨菲斯",
+            "text": "你一直在找答案，托马斯·安德森",
+            "emotion": "平静而有力"
+          },
+          "sfx": "脚步声回响"
+        },
+        {
+          "frame_number": 3,
+          "time_start": 5.0,
+          "time_end": 7.5,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "尼奥",
+              "action": "喉结滚动，紧张后退半步",
+              "expression": "惊讶困惑"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "尼奥特写，面部细节清晰，喉结滚动，眼神闪烁不安，绿色光影在脸上流动",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "墨菲斯",
+            "text": "不是因为好奇，是因为疼痛",
+            "emotion": "洞察一切"
+          },
+          "sfx": "心跳声渐强"
+        },
+        {
+          "frame_number": 4,
+          "time_start": 7.5,
+          "time_end": 10.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v1",
+              "name": "墨菲斯",
+              "action": "抬手，控制台升起药丸",
+              "expression": "严肃"
+            }
+          ],
+          "scene_variant_id": "scene_01_v2",
+          "prop_variant_ids": ["prop_01_v1"],
+          "scene_description": "墨菲斯抬起双手，红蓝两颗药丸悬浮在掌心上方发出微光，背景虚化",
+          "camera": {
+            "type": "近景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "墨菲斯",
+            "text": "一种从出生就扎根的直觉——这个世界不对劲",
+            "emotion": "深沉"
+          },
+          "sfx": "药丸悬浮的轻微嗡鸣"
+        },
+        {
+          "frame_number": 5,
+          "time_start": 10.0,
+          "time_end": 12.5,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "尼奥",
+              "action": "眉头紧皱，声音沙哑",
+              "expression": "困惑渴望"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "尼奥面部特写，眉头紧锁，眼神中混合着恐惧与渴望，嘴唇微张",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "尼奥",
+            "text": "到底……哪里不对劲？",
+            "emotion": "颤抖沙哑"
+          },
+          "sfx": "呼吸声"
+        },
+        {
+          "frame_number": 6,
+          "time_start": 12.5,
+          "time_end": 15.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v1",
+              "name": "墨菲斯",
+              "action": "向前迈步，药丸悬浮",
+              "expression": "严肃坚定"
+            }
+          ],
+          "scene_variant_id": "scene_01_v2",
+          "prop_variant_ids": ["prop_01_v1"],
+          "scene_description": "红蓝药丸特写，悬浮在墨菲斯掌心，红色鲜艳夺目，蓝色深邃冷静",
+          "camera": {
+            "type": "特写",
+            "movement": "推",
+            "angle": "平视"
+          },
+          "narration": {
+            "text": "一个选择，将改变他的命运",
+            "emotion": "紧张"
+          },
+          "dialogue": null,
+          "sfx": "低频音效"
+        },
+        {
+          "frame_number": 7,
+          "time_start": 15.0,
+          "time_end": 17.5,
+          "characters": [
+            {
+              "variant_id": "char_02_v1",
+              "name": "墨菲斯",
+              "action": "伸手递出药丸",
+              "expression": "严肃"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": ["prop_01_v1"],
+          "scene_description": "墨菲斯中景，双手持药丸向前递出，表情严肃，眼神透过墨镜凝视",
+          "camera": {
+            "type": "中景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "墨菲斯",
+            "text": "你活在一场梦里，一个名为矩阵的牢笼",
+            "emotion": "平缓而有力"
+          },
+          "sfx": "空气震动声"
+        },
+        {
+          "frame_number": 8,
+          "time_start": 17.5,
+          "time_end": 20.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "尼奥",
+              "action": "瞳孔收缩，后退一步",
+              "expression": "震惊不信"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "尼奥眼部超特写，瞳孔急剧收缩，眼中倒映红蓝药丸的光芒",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "尼奥",
+            "text": "这不可能……我看到的街道、人群、阳光……都是假的？",
+            "emotion": "惊恐颤抖"
+          },
+          "sfx": "心跳加速"
+        },
+        {
+          "frame_number": 9,
+          "time_start": 20.0,
+          "time_end": 22.5,
+          "characters": [
+            {
+              "variant_id": "char_03_v1",
+              "name": "崔妮蒂",
+              "action": "靠墙观察，双臂抱胸",
+              "expression": "冷静"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "崔妮蒂倚靠舱壁，黑色皮衣反光，眼神锐利观察尼奥，表情冷艳",
+          "camera": {
+            "type": "中景",
+            "movement": "固定",
+            "angle": "侧面"
+          },
+          "narration": {
+            "text": "每个人都要做出选择",
+            "emotion": "冷静"
+          },
+          "dialogue": null,
+          "sfx": "金属舱体轻微震动"
+        },
+        {
+          "frame_number": 10,
+          "time_start": 22.5,
+          "time_end": 25.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v1",
+              "name": "墨菲斯",
+              "action": "向前一步，递出药丸",
+              "expression": "坚定"
+            }
+          ],
+          "scene_variant_id": "scene_01_v2",
+          "prop_variant_ids": ["prop_01_v1"],
+          "scene_description": "药丸特写，红色药丸光芒炽烈，蓝色药丸冰冷深邃，二者对比强烈",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "墨菲斯",
+            "text": "蓝色药丸，故事结束。红色药丸，留在奇境",
+            "emotion": "庄重"
+          },
+          "sfx": "时间仿佛静止"
+        },
+        {
+          "frame_number": 11,
+          "time_start": 25.0,
+          "time_end": 27.5,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "尼奥",
+              "action": "指尖颤抖，伸手",
+              "expression": "挣扎犹豫"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "尼奥手部特写，手指颤抖着缓缓伸向红色药丸，汗珠在指尖闪光",
+          "camera": {
+            "type": "特写",
+            "movement": "推",
+            "angle": "平视"
+          },
+          "narration": {
+            "text": "真相与谎言，只在一念之间",
+            "emotion": "紧张"
+          },
+          "dialogue": null,
+          "sfx": "心跳剧烈"
+        },
+        {
+          "frame_number": 12,
+          "time_start": 27.5,
+          "time_end": 30.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "尼奥",
+              "action": "握住红色药丸",
+              "expression": "坚定"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": ["prop_01_v2"],
+          "scene_description": "尼奥手中握住红色药丸，药丸在掌心发光，面部坚定",
+          "camera": {
+            "type": "近景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "尼奥",
+            "text": "我要真相",
+            "emotion": "坚定"
+          },
+          "sfx": "药丸轻微震动音"
+        },
+        {
+          "frame_number": 13,
+          "time_start": 30.0,
+          "time_end": 32.5,
+          "characters": [],
+          "scene_variant_id": "scene_03_v1",
+          "prop_variant_ids": [],
+          "scene_description": "世界崩塌，绿色代码洪流冲刷整个画面，高楼、街道化作数字瀑布",
+          "camera": {
+            "type": "特写",
+            "movement": "旋转",
+            "angle": "平视"
+          },
+          "narration": {
+            "text": "虚假的世界，在真相面前分崩离析",
+            "emotion": "震撼"
+          },
+          "dialogue": null,
+          "sfx": "数字崩塌声，电流爆裂"
+        },
+        {
+          "frame_number": 14,
+          "time_start": 32.5,
+          "time_end": 35.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v2",
+              "name": "尼奥",
+              "action": "跪倒在地，瞳孔震颤",
+              "expression": "震惊恐惧"
+            }
+          ],
+          "scene_variant_id": "scene_02_v1",
+          "prop_variant_ids": [],
+          "scene_description": "真实世界废土全景，乌云蔽日，钢铁废墟遍布，地面焦黑，尼奥跪倒在前景",
+          "camera": {
+            "type": "远景",
+            "movement": "拉",
+            "angle": "俯视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "尼奥",
+            "text": "这是……哪里？",
+            "emotion": "颤抖惊恐"
+          },
+          "sfx": "荒凉风声，远处金属碰撞"
+        },
+        {
+          "frame_number": 15,
+          "time_start": 35.0,
+          "time_end": 37.5,
+          "characters": [],
+          "scene_variant_id": "scene_02_v2",
+          "prop_variant_ids": [],
+          "scene_description": "废墟特写，扭曲的钢筋，破碎的混凝土，灰尘漂浮，文明毁灭的残骸",
+          "camera": {
+            "type": "特写",
+            "movement": "摇",
+            "angle": "平视"
+          },
+          "narration": {
+            "text": "这才是真实，人类文明的坟墓",
+            "emotion": "沉重"
+          },
+          "dialogue": null,
+          "sfx": "风吹过废墟的呜咽声"
+        },
+        {
+          "frame_number": 16,
+          "time_start": 37.5,
+          "time_end": 40.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v1",
+              "name": "墨菲斯",
+              "action": "站在尼奥身后",
+              "expression": "沉重"
+            }
+          ],
+          "scene_variant_id": "scene_02_v1",
+          "prop_variant_ids": [],
+          "scene_description": "墨菲斯背影，站在废土上，远处天空乌云密布，气氛压抑绝望",
+          "camera": {
+            "type": "中景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "墨菲斯",
+            "text": "这是真实世界，公元2199年",
+            "emotion": "沉重"
+          },
+          "sfx": "低沉背景音"
+        },
+        {
+          "frame_number": 17,
+          "time_start": 40.0,
+          "time_end": 42.5,
+          "characters": [
+            {
+              "variant_id": "char_01_v2",
+              "name": "尼奥",
+              "action": "面部扭曲，摇头",
+              "expression": "崩溃"
+            }
+          ],
+          "scene_variant_id": "scene_02_v1",
+          "prop_variant_ids": [],
+          "scene_description": "尼奥特写，面色苍白，汗水滑落，眼神绝望，双手撑地",
+          "camera": {
+            "type": "特写",
+            "movement": "推",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "尼奥",
+            "text": "我不是救世主！我只是个普通程序员！",
+            "emotion": "崩溃嘶吼"
+          },
+          "sfx": "呼吸急促，心跳如鼓"
+        },
+        {
+          "frame_number": 18,
+          "time_start": 42.5,
+          "time_end": 45.0,
+          "characters": [
+            {
+              "variant_id": "char_03_v2",
+              "name": "崔妮蒂",
+              "action": "上前，眼神鼓励",
+              "expression": "柔和坚定"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "崔妮蒂近景，眼神温柔却坚定，微微点头，嘴角有一丝鼓励的微笑",
+          "camera": {
+            "type": "近景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "崔妮蒂",
+            "text": "我们寻找你很久。你不是普通人",
+            "emotion": "冷静鼓励"
+          },
+          "sfx": "脚步声靠近"
+        },
+        {
+          "frame_number": 19,
+          "time_start": 45.0,
+          "time_end": 47.5,
+          "characters": [
+            {
+              "variant_id": "char_02_v3",
+              "name": "墨菲斯",
+              "action": "蹲下，摘下墨镜平视",
+              "expression": "鼓励信任"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "墨菲斯蹲下身，摘下墨镜露出真诚眼神，平视尼奥，嘴角微扬",
+          "camera": {
+            "type": "近景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": {
+            "text": "信念，是改变世界的起点",
+            "emotion": "温暖"
+          },
+          "dialogue": null,
+          "sfx": "安静，只有轻微呼吸声"
+        },
+        {
+          "frame_number": 20,
+          "time_start": 47.5,
+          "time_end": 50.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v3",
+              "name": "墨菲斯",
+              "action": "伸手搭在尼奥肩上",
+              "expression": "坚定鼓励"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "墨菲斯的手搭在尼奥肩上，两人眼神交汇，传递力量与信任",
+          "camera": {
+            "type": "中景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "墨菲斯",
+            "text": "矩阵不是神，它只是一段代码。而你，能改写它",
+            "emotion": "坚定有力"
+          },
+          "sfx": "低频音效渐起"
+        },
+        {
+          "frame_number": 21,
+          "time_start": 50.0,
+          "time_end": 52.5,
+          "characters": [
+            {
+              "variant_id": "char_01_v3",
+              "name": "尼奥",
+              "action": "眼神渐渐坚定，握拳",
+              "expression": "从迷茫转为坚定"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "尼奥眼部特写，眼底闪过绿色代码，迷茫褪去，坚定浮现，瞳孔聚焦",
+          "camera": {
+            "type": "特写",
+            "movement": "推",
+            "angle": "平视"
+          },
+          "narration": {
+            "text": "觉醒的瞬间，英雄诞生",
+            "emotion": "震撼"
+          },
+          "dialogue": null,
+          "sfx": "数字流动声，心跳有力"
+        },
+        {
+          "frame_number": 22,
+          "time_start": 52.5,
+          "time_end": 55.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v3",
+              "name": "尼奥",
+              "action": "缓缓站起，握紧拳头",
+              "expression": "坚定"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "尼奥全身景，从跪姿缓缓站起，拳头紧握，身姿挺拔，眼神锐利",
+          "camera": {
+            "type": "中景",
+            "movement": "拉",
+            "angle": "仰视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "尼奥",
+            "text": "我该怎么做？",
+            "emotion": "坚定"
+          },
+          "sfx": "脚步踏地声，有力"
+        },
+        {
+          "frame_number": 23,
+          "time_start": 55.0,
+          "time_end": 57.5,
+          "characters": [
+            {
+              "variant_id": "char_02_v1",
+              "name": "墨菲斯",
+              "action": "站起，嘴角扬起",
+              "expression": "欣慰微笑"
+            }
+          ],
+          "scene_variant_id": "scene_01_v3",
+          "prop_variant_ids": [],
+          "scene_description": "墨菲斯从舱门望向废土，背影伟岸，远处绿色代码在黑暗中闪烁",
+          "camera": {
+            "type": "中景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "墨菲斯",
+            "text": "第一步，醒来。第二步，战斗。第三步，解放全人类",
+            "emotion": "坚定豪迈"
+          },
+          "sfx": "舱门缓缓打开声"
+        },
+        {
+          "frame_number": 24,
+          "time_start": 57.5,
+          "time_end": 60.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v3",
+              "name": "尼奥",
+              "action": "迈步走向舱门",
+              "expression": "坚定"
+            }
+          ],
+          "scene_variant_id": "scene_02_v1",
+          "prop_variant_ids": [],
+          "scene_description": "远景，尼奥背影走向舱门外的废土，绿色代码在黑暗中闪烁，象征觉醒与希望",
+          "camera": {
+            "type": "远景",
+            "movement": "拉",
+            "angle": "平视"
+          },
+          "narration": {
+            "text": "救世主的征程，从此刻开始",
+            "emotion": "史诗感"
+          },
+          "dialogue": null,
+          "sfx": "背景音乐渐起，代码流动声"
+        }
+      ]
+    }
+  ]
+}

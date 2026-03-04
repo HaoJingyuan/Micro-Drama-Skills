@@ -1,0 +1,153 @@
+{
+  "characters": [
+    {
+      "id": "char_01",
+      "name": "尼奥（NEO）",
+      "base_description": "年轻男性黑客，28岁左右，短黑发，清秀面容，眼神中混合着迷茫与渴望真相的坚定。穿着简约黑色衣物。身材中等偏瘦，姿态略带紧张。",
+      "variants": [
+        {
+          "variant_id": "char_01_v1",
+          "label": "迷茫状态",
+          "description": "尼奥初到飞船时的迷茫神态，眉头微皱，眼神警惕，双手略显紧张，站姿防备。穿黑色T恤和牛仔裤。",
+          "ai_prompt": "A young Asian man around 28 years old, short black hair, handsome face with confused expression, furrowed brows, alert eyes, nervous posture, wearing simple black t-shirt and jeans, photorealistic, cinematic lighting, highly detailed facial features, 8K quality"
+        },
+        {
+          "variant_id": "char_01_v2",
+          "label": "震惊恐惧",
+          "description": "尼奥看到真实世界废土后的震惊状态，瞳孔放大，面色苍白，跪倒在地，双手撑地，身体颤抖。",
+          "ai_prompt": "A young Asian man around 28 years old, short black hair, shocked and terrified expression, dilated pupils, pale face, kneeling on ground, hands on floor, trembling body, wearing black clothing, photorealistic, dramatic cinematic lighting, highly detailed facial features, 8K quality"
+        },
+        {
+          "variant_id": "char_01_v3",
+          "label": "坚定觉醒",
+          "description": "尼奥最终决定踏入真实世界的坚定状态，眼神锐利，眉宇间透出决心，握紧拳头，站姿挺拔。",
+          "ai_prompt": "A young Asian man around 28 years old, short black hair, determined expression, sharp eyes, resolute brows, clenched fists, upright posture, wearing black clothing, photorealistic, heroic cinematic lighting, highly detailed facial features, 8K quality"
+        }
+      ]
+    },
+    {
+      "id": "char_02",
+      "name": "墨菲斯（MORPHEUS）",
+      "base_description": "中年男性，40岁左右，光头或短发，深邃五官，戴墨镜，气场沉稳强大。穿着黑色长风衣，身材高大健壮，站姿笔直威严。",
+      "variants": [
+        {
+          "variant_id": "char_02_v1",
+          "label": "沉稳导师",
+          "description": "墨菲斯站在控制台前，戴着墨镜，表情严肃沉稳，双手自然垂放或交叉胸前，身姿笔直，气场强大。穿黑色长风衣。",
+          "ai_prompt": "A middle-aged African American man around 40 years old, bald or very short hair, deep-set features, wearing black sunglasses, calm and powerful aura, standing straight with crossed arms, wearing long black leather coat, photorealistic, cinematic lighting, highly detailed facial features, 8K quality"
+        },
+        {
+          "variant_id": "char_02_v2",
+          "label": "递药丸",
+          "description": "墨菲斯伸出双手，掌心悬浮着红蓝两颗药丸，眼神透过墨镜凝视尼奥，表情严肃而坚定。",
+          "ai_prompt": "A middle-aged African American man around 40 years old, bald head, wearing black sunglasses, extending both hands with red and blue pills floating above palms, serious and determined expression, wearing black leather coat, photorealistic, dramatic cinematic lighting, highly detailed facial features, 8K quality"
+        },
+        {
+          "variant_id": "char_02_v3",
+          "label": "蹲下平视",
+          "description": "墨菲斯蹲下身，摘下墨镜，平视尼奥，眼神中透出鼓励和信任，嘴角微微上扬。",
+          "ai_prompt": "A middle-aged African American man around 40 years old, bald head, sunglasses removed, crouching down, eye-level view, encouraging and trusting gaze, slight smile, wearing black leather coat, photorealistic, warm cinematic lighting, highly detailed facial features, 8K quality"
+        }
+      ]
+    },
+    {
+      "id": "char_03",
+      "name": "崔妮蒂（TRINITY）",
+      "base_description": "年轻女性战士，30岁左右，短黑发或扎起的长发，冷艳精致面容，眼神锐利冷静。穿紧身黑色皮衣，身材修长矫健，站姿优雅却透出警戒。",
+      "variants": [
+        {
+          "variant_id": "char_03_v1",
+          "label": "冷静观察",
+          "description": "崔妮蒂靠在舱壁上，双臂抱胸，眼神冷静锐利地观察尼奥，表情冷艳，黑色短发，穿紧身黑色皮衣。",
+          "ai_prompt": "A young Asian woman around 30 years old, short black hair, cold and elegant face, sharp and calm eyes, leaning against wall with crossed arms, wearing tight black leather outfit, photorealistic, cool cinematic lighting, highly detailed facial features, 8K quality"
+        },
+        {
+          "variant_id": "char_03_v2",
+          "label": "无声鼓励",
+          "description": "崔妮蒂微微点头，眼神中透出鼓励，嘴角微微上扬，表情柔和但依旧保持警觉。",
+          "ai_prompt": "A young Asian woman around 30 years old, short black hair, nodding slightly, encouraging eyes, slight smile, gentle yet alert expression, wearing tight black leather outfit, photorealistic, soft cinematic lighting, highly detailed facial features, 8K quality"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene_01",
+      "name": "尼布甲尼撒号核心舱",
+      "base_description": "狭小金属舱体，科幻工业风，冷绿色全息光流淌，管线交错如神经脉络，中央悬浮控制台发出微光，两把极简座椅，整体氛围幽暗神秘。",
+      "variants": [
+        {
+          "variant_id": "scene_01_v1",
+          "label": "正面全景",
+          "description": "舱体正面视角，可见中央控制台全貌，绿色全息光在空中流动，两侧管线密布，光线幽暗，科技感十足。",
+          "ai_prompt": "Interior of spaceship core chamber, narrow metallic hull, cold green holographic light flowing, pipes crossing like neural networks, central floating control console glowing, two minimalist chairs, dark and mysterious atmosphere, cinematic sci-fi lighting, photorealistic, 8K quality, wide angle shot"
+        },
+        {
+          "variant_id": "scene_01_v2",
+          "label": "控制台特写",
+          "description": "控制台近景，绿色全息投影悬浮，显示矩阵代码流，金属材质反射微光,细节精致。",
+          "ai_prompt": "Close-up of futuristic control console, green holographic projections floating above, matrix code streams displayed, metallic surface reflecting soft light, intricate details, cinematic sci-fi lighting, photorealistic, 8K quality"
+        },
+        {
+          "variant_id": "scene_01_v3",
+          "label": "舱门视角",
+          "description": "从舱门向内看，舱体狭窄幽深,远处控制台发出绿光,营造神秘压迫感。",
+          "ai_prompt": "View from ship's doorway looking inward, narrow and deep chamber, control console glowing green in the distance, mysterious and oppressive atmosphere, cinematic sci-fi lighting, photorealistic, 8K quality"
+        }
+      ]
+    },
+    {
+      "id": "scene_02",
+      "name": "真实世界废土",
+      "base_description": "末日荒原,乌云蔽日,钢铁废墟遍布,曾经的高楼化作残垣断壁,地面焦黑,空气中弥漫尘埃,整体色调灰暗绝望。",
+      "variants": [
+        {
+          "variant_id": "scene_02_v1",
+          "label": "废土全景",
+          "description": "广阔的末日废土,天空乌云密布不见阳光,远处钢铁废墟林立,地面坑洼焦黑,空无一人,压抑绝望。",
+          "ai_prompt": "Post-apocalyptic wasteland, dark clouds covering sky blocking sunlight, steel ruins scattered across landscape, scorched and cratered ground, desolate and hopeless, cinematic dramatic lighting, photorealistic, 8K quality, wide angle shot"
+        },
+        {
+          "variant_id": "scene_02_v2",
+          "label": "废墟特写",
+          "description": "倒塌建筑残骸特写,扭曲的钢筋,破碎的混凝土,灰尘漂浮,细节展现文明毁灭。",
+          "ai_prompt": "Close-up of collapsed building ruins, twisted steel rebar, shattered concrete, dust floating in air, detailed destruction of civilization, cinematic dramatic lighting, photorealistic, 8K quality"
+        }
+      ]
+    },
+    {
+      "id": "scene_03",
+      "name": "矩阵代码世界",
+      "base_description": "虚拟空间,绿色代码瀑布般流淌,数字0和1构成的世界,黑色背景,代码闪烁变幻,象征虚拟矩阵。",
+      "variants": [
+        {
+          "variant_id": "scene_03_v1",
+          "label": "代码洪流",
+          "description": "满屏绿色代码如瀑布垂直流淌,0和1数字密集,黑色背景,代码发出荧光,营造虚拟空间感。",
+          "ai_prompt": "Matrix digital world, cascading green code like waterfall, dense 0s and 1s, black background, glowing code characters, virtual cyberspace atmosphere, cinematic sci-fi lighting, photorealistic rendering, 8K quality"
+        }
+      ]
+    }
+  ],
+  "props": [
+    {
+      "id": "prop_01",
+      "name": "红蓝药丸",
+      "base_description": "两颗小药丸,一颗鲜红色,一颗蓝色,表面光滑,悬浮在墨菲斯掌心,发出微光。",
+      "variants": [
+        {
+          "variant_id": "prop_01_v1",
+          "label": "悬浮状态",
+          "description": "红蓝两颗药丸悬浮在掌心上方,红色药丸鲜艳夺目,蓝色药丸冷静深邃,微微发光,背景虚化。",
+          "ai_prompt": "Red and blue pills floating above palm, red pill vibrant and eye-catching, blue pill calm and deep, subtle glow, blurred background, photorealistic, cinematic lighting, highly detailed, 8K quality, close-up shot"
+        },
+        {
+          "variant_id": "prop_01_v2",
+          "label": "红色药丸特写",
+          "description": "尼奥手中握住的红色药丸特写,表面光滑反光,鲜红色泽,象征真相与觉醒。",
+          "ai_prompt": "Close-up of red pill in hand, smooth reflective surface, vibrant red color, symbolizing truth and awakening, photorealistic, dramatic cinematic lighting, highly detailed, 8K quality"
+        }
+      ]
+    }
+  ]
+}
