@@ -1,0 +1,655 @@
+{
+  "episode_count": 1,
+  "frames_per_episode": 24,
+  "total_duration_seconds": 90,
+  "episodes": [
+    {
+      "episode_number": 1,
+      "title": "街角微光，危机暗伏",
+      "duration_seconds": 90,
+      "frames": [
+        {
+          "frame_number": 1,
+          "time_start": 0.0,
+          "time_end": 3.75,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "踮脚揉面团",
+              "expression": "专注"
+            }
+          ],
+          "scene_variant_id": "scene_01_v3",
+          "prop_variant_ids": [],
+          "scene_description": "小满在工作台前踮脚揉面，手法娴熟，面粉飞扬",
+          "camera": {
+            "type": "中景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": {
+            "text": "林小满，一个没人知道来历的小女孩",
+            "emotion": "神秘"
+          },
+          "dialogue": null,
+          "sfx": "揉面声"
+        },
+        {
+          "frame_number": 2,
+          "time_start": 3.75,
+          "time_end": 7.5,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "按压面团排气",
+              "expression": "认真"
+            }
+          ],
+          "scene_variant_id": "scene_01_v3",
+          "prop_variant_ids": [],
+          "scene_description": "小满的手指按压面团，排出气泡，动作细腻",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "俯视"
+          },
+          "narration": {
+            "text": "藏着一身烘培天赋",
+            "emotion": "赞叹"
+          },
+          "dialogue": null,
+          "sfx": "面团声"
+        },
+        {
+          "frame_number": 3,
+          "time_start": 7.5,
+          "time_end": 11.25,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "切碎柠檬皮",
+              "expression": "专注"
+            }
+          ],
+          "scene_variant_id": "scene_01_v3",
+          "prop_variant_ids": [],
+          "scene_description": "小满小心翼翼地切碎老柠檬皮，去除白瓤",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": {
+            "text": "守着一间快倒闭的小店",
+            "emotion": "忧伤"
+          },
+          "dialogue": null,
+          "sfx": "切菜声"
+        },
+        {
+          "frame_number": 4,
+          "time_start": 11.25,
+          "time_end": 15.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "站在柜台前",
+              "expression": "温柔"
+            }
+          ],
+          "scene_variant_id": "scene_01_v2",
+          "prop_variant_ids": ["prop_01_v1"],
+          "scene_description": "玻璃柜里摆着3款精致的小蛋糕，暖光照在小满脸上",
+          "camera": {
+            "type": "中景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": null,
+          "sfx": "环境音"
+        },
+        {
+          "frame_number": 5,
+          "time_start": 15.0,
+          "time_end": 18.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "看向窗外",
+              "expression": "期待"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "小满站在店内，透过窗户看向街道",
+          "camera": {
+            "type": "中景",
+            "movement": "固定",
+            "angle": "侧面"
+          },
+          "narration": null,
+          "dialogue": null,
+          "sfx": "街道声"
+        },
+        {
+          "frame_number": 6,
+          "time_start": 18.0,
+          "time_end": 21.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v1",
+              "name": "张婶",
+              "action": "冲进店门",
+              "expression": "愤怒"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "张婶气势汹汹地推门而入，表情凶狠",
+          "camera": {
+            "type": "全景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": null,
+          "sfx": "开门声"
+        },
+        {
+          "frame_number": 7,
+          "time_start": 21.0,
+          "time_end": 25.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v1",
+              "name": "张婶",
+              "action": "扫落蛋糕",
+              "expression": "愤怒"
+            }
+          ],
+          "scene_variant_id": "scene_01_v2",
+          "prop_variant_ids": ["prop_01_v1"],
+          "scene_description": "张婶一把扫落柜台上的小蛋糕，蛋糕散落一地",
+          "camera": {
+            "type": "特写",
+            "movement": "跟",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "张婶",
+            "text": "破蛋糕也敢卖？",
+            "emotion": "愤怒"
+          },
+          "sfx": "蛋糕掉落声"
+        },
+        {
+          "frame_number": 8,
+          "time_start": 25.0,
+          "time_end": 29.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v1",
+              "name": "张婶",
+              "action": "指着小满",
+              "expression": "凶狠"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "张婶手指指向小满，表情刻薄",
+          "camera": {
+            "type": "中景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "张婶",
+            "text": "我儿子吃了说肚子疼，要么赔5000块，要么封店！",
+            "emotion": "威胁"
+          },
+          "sfx": null
+        },
+        {
+          "frame_number": 9,
+          "time_start": 29.0,
+          "time_end": 33.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v2",
+              "name": "林小满",
+              "action": "攥紧拳头",
+              "expression": "紧张但坚定"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "小满眼眶泛红，但攥紧拳头，表情坚定",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "林小满",
+            "text": "我做的蛋糕绝对干净，我再做一份给你验！",
+            "emotion": "坚定"
+          },
+          "sfx": null
+        },
+        {
+          "frame_number": 10,
+          "time_start": 33.0,
+          "time_end": 36.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "打蛋液",
+              "expression": "专注"
+            }
+          ],
+          "scene_variant_id": "scene_01_v3",
+          "prop_variant_ids": [],
+          "scene_description": "小满快速打蛋液，手法利落",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "俯视"
+          },
+          "narration": null,
+          "dialogue": null,
+          "sfx": "打蛋声"
+        },
+        {
+          "frame_number": 11,
+          "time_start": 36.0,
+          "time_end": 39.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "筛面粉",
+              "expression": "认真"
+            }
+          ],
+          "scene_variant_id": "scene_01_v3",
+          "prop_variant_ids": [],
+          "scene_description": "小满筛面粉，面粉细腻地落下",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "侧面"
+          },
+          "narration": null,
+          "dialogue": null,
+          "sfx": "筛面粉声"
+        },
+        {
+          "frame_number": 12,
+          "time_start": 39.0,
+          "time_end": 42.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "将蛋糕放入烤箱",
+              "expression": "专注"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "小满小心地将蛋糕模具放入烤箱",
+          "camera": {
+            "type": "中景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": null,
+          "sfx": "烤箱门声"
+        },
+        {
+          "frame_number": 13,
+          "time_start": 42.0,
+          "time_end": 46.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "端出蛋糕",
+              "expression": "自信"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": ["prop_01_v1"],
+          "scene_description": "小满端出刚出炉的柠檬小蛋糕，金黄松软",
+          "camera": {
+            "type": "特写",
+            "movement": "推",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": null,
+          "sfx": "烤箱声"
+        },
+        {
+          "frame_number": 14,
+          "time_start": 46.0,
+          "time_end": 50.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "递上蛋糕",
+              "expression": "期待"
+            },
+            {
+              "variant_id": "char_02_v1",
+              "name": "张婶",
+              "action": "准备打翻",
+              "expression": "不屑"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": ["prop_01_v1"],
+          "scene_description": "小满递上蛋糕，张婶伸手要打翻",
+          "camera": {
+            "type": "中景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": null,
+          "sfx": null
+        },
+        {
+          "frame_number": 15,
+          "time_start": 50.0,
+          "time_end": 54.0,
+          "characters": [
+            {
+              "variant_id": "char_03_v1",
+              "name": "神秘老人",
+              "action": "突然出现，拦住张婶",
+              "expression": "严肃"
+            },
+            {
+              "variant_id": "char_02_v1",
+              "name": "张婶",
+              "action": "被拦住",
+              "expression": "惊讶"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "神秘老人突然出现，拦住张婶的手",
+          "camera": {
+            "type": "全景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": null,
+          "sfx": "拐杖声"
+        },
+        {
+          "frame_number": 16,
+          "time_start": 54.0,
+          "time_end": 58.0,
+          "characters": [
+            {
+              "variant_id": "char_03_v2",
+              "name": "神秘老人",
+              "action": "咬了一口蛋糕",
+              "expression": "慈祥"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": ["prop_01_v1"],
+          "scene_description": "老人咬了一口蛋糕，细细品味",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "神秘老人",
+            "text": "这蛋糕用老柠檬皮提香，低油低糖无防腐剂",
+            "emotion": "平静"
+          },
+          "sfx": null
+        },
+        {
+          "frame_number": 17,
+          "time_start": 58.0,
+          "time_end": 62.0,
+          "characters": [
+            {
+              "variant_id": "char_03_v2",
+              "name": "神秘老人",
+              "action": "从张婶口袋捻出糖纸",
+              "expression": "严肃"
+            },
+            {
+              "variant_id": "char_02_v1",
+              "name": "张婶",
+              "action": "惊讶",
+              "expression": "震惊"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": ["prop_03_v1"],
+          "scene_description": "老人指尖捻出张婶口袋里的劣质糖纸",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "神秘老人",
+            "text": "你儿子肚子疼，是吃了别家的劣质糖果",
+            "emotion": "严肃"
+          },
+          "sfx": null
+        },
+        {
+          "frame_number": 18,
+          "time_start": 62.0,
+          "time_end": 66.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v2",
+              "name": "张婶",
+              "action": "尝蛋糕",
+              "expression": "愧疚"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": ["prop_01_v1"],
+          "scene_description": "张婶脸色煞白，尝了一口蛋糕",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": null,
+          "sfx": null
+        },
+        {
+          "frame_number": 19,
+          "time_start": 66.0,
+          "time_end": 70.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v2",
+              "name": "张婶",
+              "action": "回忆儿子",
+              "expression": "愧疚"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "张婶想起儿子爱吃甜食却怕腻的样子",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": {
+            "text": "酸涩回甘，心结解锁",
+            "emotion": "感动"
+          },
+          "dialogue": null,
+          "sfx": null
+        },
+        {
+          "frame_number": 20,
+          "time_start": 70.0,
+          "time_end": 73.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v2",
+              "name": "张婶",
+              "action": "道歉离开",
+              "expression": "尴尬"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "张婶慌忙道歉，转身离开",
+          "camera": {
+            "type": "中景",
+            "movement": "跟",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "张婶",
+            "text": "对不起...我误会了...",
+            "emotion": "愧疚"
+          },
+          "sfx": "脚步声"
+        },
+        {
+          "frame_number": 21,
+          "time_start": 73.0,
+          "time_end": 77.0,
+          "characters": [
+            {
+              "variant_id": "char_03_v2",
+              "name": "神秘老人",
+              "action": "递出酵母",
+              "expression": "慈祥"
+            },
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "接过酵母",
+              "expression": "惊讶"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": ["prop_02_v1"],
+          "scene_description": "老人递给小满半片干酵母",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "神秘老人",
+            "text": "烘培宝典第一式——真材实料，是最好的底气",
+            "emotion": "睿智"
+          },
+          "sfx": null
+        },
+        {
+          "frame_number": 22,
+          "time_start": 77.0,
+          "time_end": 81.0,
+          "characters": [
+            {
+              "variant_id": "char_03_v2",
+              "name": "神秘老人",
+              "action": "转身离开",
+              "expression": "神秘"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "老人转身，背影渐行渐远",
+          "camera": {
+            "type": "全景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "神秘老人",
+            "text": "好酵母养好面，好心意做好物",
+            "emotion": "睿智"
+          },
+          "sfx": "拐杖声"
+        },
+        {
+          "frame_number": 23,
+          "time_start": 81.0,
+          "time_end": 85.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v3",
+              "name": "林小满",
+              "action": "握紧酵母",
+              "expression": "坚定"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": ["prop_02_v1"],
+          "scene_description": "小满握紧手中的酵母，眼神坚定",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": {
+            "speaker": "林小满",
+            "text": "我一定会守住小店！",
+            "emotion": "坚定"
+          },
+          "sfx": null
+        },
+        {
+          "frame_number": 24,
+          "time_start": 85.0,
+          "time_end": 90.0,
+          "characters": [],
+          "scene_variant_id": "scene_01_v2",
+          "prop_variant_ids": ["prop_01_v2"],
+          "scene_description": "镜头给到蛋糕切面，松软多孔，画面渐暗",
+          "camera": {
+            "type": "特写",
+            "movement": "推",
+            "angle": "平视"
+          },
+          "narration": null,
+          "dialogue": null,
+          "sfx": "环境音渐弱"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "characters": [
+    {
+      "id": "char_01",
+      "name": "林小满",
+      "base_description": "8岁小女孩，扎双马尾，穿着沾有面粉的围裙，眼神专注而坚定，身材娇小，皮肤白皙，脸颊有些婴儿肥",
+      "variants": [
+        {
+          "variant_id": "char_01_v1",
+          "label": "日常工作装",
+          "description": "林小满穿着浅蓝色围裙，围裙上沾着面粉痕迹，双马尾用粉色发圈扎起，白色短袖T恤，深色长裤，手上有些面粉",
+          "ai_prompt": "8-year-old Chinese girl, twin ponytails with pink hair bands, light blue apron with flour stains, white t-shirt, dark pants, cute face, petite, anime style"
+        },
+        {
+          "variant_id": "char_01_v2",
+          "label": "紧张表情",
+          "description": "林小满眼眶泛红，攥紧拳头，表情紧张但坚定，围裙上的面粉更多了",
+          "ai_prompt": "Same character from reference, nervous expression, red-rimmed eyes, clenched fists, anime style"
+        },
+        {
+          "variant_id": "char_01_v3",
+          "label": "坚定表情",
+          "description": "林小满握紧手中的酵母，眼神坚定有力，嘴角微微上扬，充满希望",
+          "ai_prompt": "Same character from reference, determined and hopeful expression, holding yeast, slight smile, anime style"
+        }
+      ]
+    },
+    {
+      "id": "char_02",
+      "name": "张婶",
+      "base_description": "中年妇女，40多岁，身材微胖，表情刻薄，穿着朴素的家常衣服，头发随意扎起",
+      "variants": [
+        {
+          "variant_id": "char_02_v1",
+          "label": "愤怒状态",
+          "description": "张婶表情凶狠，眉头紧皱，嘴角下撇，手指指向前方，穿着深色碎花上衣和深色裤子",
+          "ai_prompt": "Middle-aged Chinese woman, slightly overweight, angry expression, dark floral blouse, dark pants, anime style"
+        },
+        {
+          "variant_id": "char_02_v2",
+          "label": "尴尬愧疚",
+          "description": "张婶脸色煞白，表情尴尬愧疚，眼神闪躲，嘴巴微张想要解释",
+          "ai_prompt": "Same character from reference, pale face, embarrassed and guilty expression, anime style"
+        }
+      ]
+    },
+    {
+      "id": "char_03",
+      "name": "神秘老人",
+      "base_description": "年迈老人，背影佝偻，戴着斗笠，穿着灰色长袍，面容慈祥但神秘，留着白色长须",
+      "variants": [
+        {
+          "variant_id": "char_03_v1",
+          "label": "背影登场",
+          "description": "神秘老人背影，佝偻的身形，戴着竹编斗笠，灰色长袍，拄着木杖",
+          "ai_prompt": "Elderly Chinese man, hunched back, bamboo conical hat, gray robe, wooden cane, white beard, anime style"
+        },
+        {
+          "variant_id": "char_03_v2",
+          "label": "正面慈祥",
+          "description": "神秘老人正面，摘下斗笠，露出慈祥的面容，白色长须，眼神睿智",
+          "ai_prompt": "Same character from reference, front view without hat, kind and wise face, white beard, anime style"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene_01",
+      "name": "迷你蛋糕小店内部",
+      "base_description": "老街区的小蛋糕店内部，墙面斑驳，简单的玻璃柜台，暖黄色灯光，木质桌椅，烤箱和烘焙工具，温馨但简陋",
+      "variants": [
+        {
+          "variant_id": "scene_01_v1",
+          "label": "店内全景-白天",
+          "description": "小店内部全景，玻璃柜台摆着蛋糕，暖黄色灯光，墙面有些斑驳，木质桌椅，烤箱在角落，窗外透进自然光",
+          "ai_prompt": "Interior of a small cake shop in old neighborhood, glass display counter with cakes, warm yellow lighting, slightly worn walls, wooden tables and chairs, oven in corner, natural light from window, cozy but simple atmosphere, 16:9 ratio, anime style background, high quality"
+        },
+        {
+          "variant_id": "scene_01_v2",
+          "label": "柜台特写",
+          "description": "玻璃柜台特写，摆着3款精致的小蛋糕，暖光照射，柜台有些旧但干净",
+          "ai_prompt": "Close-up of glass display counter, 3 delicate small cakes displayed, warm light shining on them, counter is old but clean, detailed view, 16:9 ratio, anime style background"
+        },
+        {
+          "variant_id": "scene_01_v3",
+          "label": "工作台特写",
+          "description": "烘焙工作台特写，面粉、鸡蛋、黄油、柠檬等原料摆放整齐，擀面杖、打蛋器等工具",
+          "ai_prompt": "Close-up of baking workstation, flour, eggs, butter, lemons neatly arranged, rolling pin, whisk and other tools, clean and organized, 16:9 ratio, anime style background"
+        }
+      ]
+    },
+    {
+      "id": "scene_02",
+      "name": "老街区街角外景",
+      "base_description": "老旧的街区街角，石板路，老式建筑，墙面斑驳，有些破旧但有生活气息",
+      "variants": [
+        {
+          "variant_id": "scene_02_v1",
+          "label": "街角全景-白天",
+          "description": "老街区街角全景，石板路，老式建筑，小店门口，墙面斑驳，白天自然光",
+          "ai_prompt": "Old neighborhood street corner, stone pavement, old-style buildings, small shop entrance, worn walls, daytime natural lighting, lived-in atmosphere, 16:9 ratio, anime style background"
+        }
+      ]
+    }
+  ],
+  "props": [
+    {
+      "id": "prop_01",
+      "name": "柠檬小蛋糕",
+      "base_description": "手工制作的柠檬小蛋糕，金黄色，松软多孔，散发柠檬香气，切面可见细腻组织",
+      "variants": [
+        {
+          "variant_id": "prop_01_v1",
+          "label": "完整蛋糕",
+          "description": "完整的柠檬小蛋糕，金黄色表面，圆形，散发着柠檬香气的视觉效果",
+          "ai_prompt": "Handmade lemon small cake, golden yellow surface, round shape, soft and fluffy appearance, lemon aroma visual effect with sparkles, three views (front, side, top), 16:9 ratio, anime style, high quality, detailed texture"
+        },
+        {
+          "variant_id": "prop_01_v2",
+          "label": "切开蛋糕",
+          "description": "切开的柠檬小蛋糕，可见松软多孔的内部组织，金黄色切面，细腻质感",
+          "ai_prompt": "Cut lemon small cake showing cross-section, soft and porous interior texture, golden yellow inside, delicate and detailed structure, three views, 16:9 ratio, anime style, appetizing look"
+        }
+      ]
+    },
+    {
+      "id": "prop_02",
+      "name": "干酵母",
+      "base_description": "半片干酵母，淡黄色，小块状，看起来普通但带有神秘感",
+      "variants": [
+        {
+          "variant_id": "prop_02_v1",
+          "label": "酵母特写",
+          "description": "半片干酵母特写，淡黄色，小块状，放在手心或桌面上，带有微光效果",
+          "ai_prompt": "Half piece of dry yeast, light yellow color, small block shape, close-up view on palm or table, subtle glow effect, mysterious aura, three views, 16:9 ratio, anime style"
+        }
+      ]
+    },
+    {
+      "id": "prop_03",
+      "name": "劣质糖纸",
+      "base_description": "劣质糖果的包装纸，颜色鲜艳但廉价，皱巴巴的",
+      "variants": [
+        {
+          "variant_id": "prop_03_v1",
+          "label": "糖纸特写",
+          "description": "劣质糖纸特写，鲜艳但廉价的颜色，皱巴巴的，被捻在手指间",
+          "ai_prompt": "Low-quality candy wrapper, bright but cheap colors, wrinkled texture, held between fingers, close-up view, three views, 16:9 ratio, anime style"
+        }
+      ]
+    }
+  ]
+}

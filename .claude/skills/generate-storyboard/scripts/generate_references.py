@@ -96,22 +96,16 @@ def generate_image(model, prompt, aspect_ratio, reference_images=None):
 
 
 def _build_character_prompt(vi):
+    # Simplified approach: single front view instead of grid layout
+    # Grid layout (2x2) seems to cause 422 errors with the API
     prompt = f"""
-    Create a character reference sheet in 2x2 grid layout.
-
     {vi['ai_prompt']}
 
-    Grid layout:
-    - Top-Left: Front view full body
-    - Top-Right: Side view full body
-    - Bottom-Left: Back view full body
-    - Bottom-Right: Face close-up portrait
-
-    White background, clean design, character reference sheet style.
-    Same character in all four views, consistent appearance.
-    High quality, detailed.
+    Full body character portrait, front view, standing pose.
+    Clean white background, high quality, detailed.
+    Character design, anime style.
     """
-    return prompt, "1:1"
+    return prompt, "9:16"  # Changed from 1:1 to 9:16 for better character display
 
 
 def _build_scene_prompt(vi):
