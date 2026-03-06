@@ -113,7 +113,7 @@ def download_image(image_url, output_path):
             f.write(response.content)
         return True
     except Exception as e:
-        print(f"  download error: {e}")
+        print(f"  download error: {e}，image_url: {image_url}")
         return False
 
 
@@ -121,9 +121,11 @@ def generate_image(model, prompt, aspect_ratio, reference_images=None):
     payload = {"model": model, "prompt": prompt, "aspect_ratio": aspect_ratio,
                "reference_images": reference_images or []}
     try:
-        response = requests.post(GENERATE_IMAGE_URL, json=payload, timeout=180)
+        print(f"  payload: {payload}")
+        response = requests.post(GENERATE_IMAGE_URL, json=payload, timeout=360)
         response.raise_for_status()
         result = response.json()
+        print(f"  result: {result}")
         if result.get("success"):
             image_url = result.get("image_url") or result.get("original_url")
             if image_url:

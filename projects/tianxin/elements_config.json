@@ -1,0 +1,176 @@
+{
+  "visual_style": "3D Pixar-style animation, warm and bright colors, soft lighting, cute Q-version proportions, matte texture, smooth shadows, no text bubbles, no dialogue boxes",
+  "characters": [
+    {
+      "id": "char_01",
+      "name": "林小满",
+      "base_description": "8岁女孩,双马尾,大眼睛,穿白色烘焙围裙和红白格子围裙,白色厨师帽,身形挺拔,眼神坚定自信",
+      "reference_image": "references/linxiaoman.jpg",
+      "variants": [
+        {
+          "variant_id": "char_01_v1",
+          "label": "烘焙装-正常",
+          "description": "林小满穿着完整烘焙装,站姿挺拔,眼神坚定,双手自然垂在身侧",
+          "ai_prompt": "8-year-old girl, twin ponytails, big bright eyes, white chef hat, red and white checkered apron over white shirt, standing upright with confident expression, 3D Pixar style, warm lighting, Q-version proportions, no text",
+          "note": "使用已有参考图 linxiaoman.jpg,无需生成"
+        }
+      ]
+    },
+    {
+      "id": "char_02",
+      "name": "张婶",
+      "base_description": "35-40岁中年女性,微胖,眉眼偏宽,表情夸张,穿深色碎花上衣和深色长裤,头发随意挽在脑后",
+      "variants": [
+        {
+          "variant_id": "char_02_v1",
+          "label": "日常装-愤怒",
+          "description": "张婶穿深色碎花上衣,表情愤怒,怒目圆睁,咬牙切齿,身体前倾",
+          "ai_prompt": "Middle-aged woman, 35-40 years old, slightly plump, wide eyes, angry expression, dark floral blouse, dark pants, hair tied back loosely, body leaning forward, 3D Pixar style, warm lighting, no text"
+        },
+        {
+          "variant_id": "char_02_v2",
+          "label": "日常装-慌乱",
+          "description": "张婶表情慌乱,眼神躲闪,嘴唇哆嗦,脸色惨白,身体僵硬",
+          "ai_prompt": "Middle-aged woman, 35-40 years old, slightly plump, panicked expression, eyes darting, pale face, trembling lips, stiff body posture, dark floral blouse, 3D Pixar style, warm lighting, no text"
+        },
+        {
+          "variant_id": "char_02_v3",
+          "label": "日常装-愧疚",
+          "description": "张婶低头,满脸羞愧,肩膀微垮,双手交叉放在身前,站姿佝偻",
+          "ai_prompt": "Middle-aged woman, 35-40 years old, slightly plump, ashamed expression, head down, shoulders slumped, hands clasped in front, hunched posture, dark floral blouse, 3D Pixar style, warm lighting, no text"
+        }
+      ]
+    },
+    {
+      "id": "char_03",
+      "name": "老街翁",
+      "base_description": "65-70岁老人,身形偏瘦,腰背挺直,眉眼温和,头发花白,穿浅灰色中山装或宽松棉质衬衫",
+      "variants": [
+        {
+          "variant_id": "char_03_v1",
+          "label": "日常装-温和",
+          "description": "老街翁穿浅灰色中山装,表情温和,眼神平静,面带浅淡笑意,站姿端正",
+          "ai_prompt": "Elderly man, 65-70 years old, thin build, straight back, gentle expression, gray hair, light gray traditional Chinese jacket, calm eyes, slight smile, upright posture, 3D Pixar style, warm lighting, no text"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene_01",
+      "name": "蛋糕店内部",
+      "base_description": "温馨的小蛋糕店,有操作台、玻璃柜台、烤箱,墙面温暖色调,光线柔和",
+      "variants": [
+        {
+          "variant_id": "scene_01_v1",
+          "label": "店内-白天-正面",
+          "description": "蛋糕店内部正面视角,操作台在中间,玻璃柜台展示蛋糕,烤箱在侧面,温暖明亮的光线",
+          "ai_prompt": "Cozy small cake shop interior, front view, work counter in center, glass display case with cakes, oven on side, warm bright lighting, soft colors, wooden furniture, 3D Pixar style, no text, 16:9"
+        },
+        {
+          "variant_id": "scene_01_v2",
+          "label": "店内-白天-侧面",
+          "description": "蛋糕店内部侧面视角,可以看到操作台和玻璃柜台的侧面,光线从窗户照进来",
+          "ai_prompt": "Cozy small cake shop interior, side view, work counter and glass display case from side angle, window light streaming in, warm atmosphere, 3D Pixar style, no text, 16:9"
+        },
+        {
+          "variant_id": "scene_01_v3",
+          "label": "店内-柜台特写",
+          "description": "玻璃柜台特写,可以看到里面精致的蛋糕,柜台表面干净整洁",
+          "ai_prompt": "Close-up of glass display case, delicate cakes inside, clean counter surface, warm lighting, detailed texture, 3D Pixar style, no text, 16:9"
+        }
+      ]
+    },
+    {
+      "id": "scene_02",
+      "name": "店外街景",
+      "base_description": "老街街景,有长椅,街道温馨宁静,光线柔和",
+      "variants": [
+        {
+          "variant_id": "scene_02_v1",
+          "label": "街外-白天",
+          "description": "老街街景,可以看到蛋糕店门口和街边长椅,温馨宁静的氛围",
+          "ai_prompt": "Old street scene, cake shop entrance visible, bench on street side, peaceful atmosphere, warm daylight, soft colors, 3D Pixar style, no text, 16:9"
+        }
+      ]
+    }
+  ],
+  "props": [
+    {
+      "id": "prop_01",
+      "name": "柠檬",
+      "base_description": "新鲜的黄色柠檬",
+      "variants": [
+        {
+          "variant_id": "prop_01_v1",
+          "label": "完整柠檬",
+          "description": "完整的新鲜柠檬,黄色,表面有纹理",
+          "ai_prompt": "Fresh yellow lemon, whole, textured surface, realistic details, 3D Pixar style, clean white background, no text, 16:9"
+        },
+        {
+          "variant_id": "prop_01_v2",
+          "label": "削皮中的柠檬",
+          "description": "正在被削皮的柠檬,黄色果皮卷起",
+          "ai_prompt": "Lemon being peeled, yellow peel curling off, knife cutting, realistic details, 3D Pixar style, clean background, no text, 16:9"
+        }
+      ]
+    },
+    {
+      "id": "prop_02",
+      "name": "蛋糕",
+      "base_description": "柠檬小蛋糕",
+      "variants": [
+        {
+          "variant_id": "prop_02_v1",
+          "label": "完整蛋糕",
+          "description": "完整的柠檬蛋糕,松软多孔,色泽鲜亮,放在玻璃柜中",
+          "ai_prompt": "Complete lemon cake, fluffy and porous texture, bright color, appetizing appearance, 3D Pixar style, clean background, no text, 16:9"
+        },
+        {
+          "variant_id": "prop_02_v2",
+          "label": "碎裂蛋糕",
+          "description": "掉在地上碎裂的蛋糕,碎屑散落",
+          "ai_prompt": "Broken cake on ground, crumbs scattered, damaged pieces, realistic details, 3D Pixar style, no text, 16:9"
+        },
+        {
+          "variant_id": "prop_02_v3",
+          "label": "劣质蛋糕碎",
+          "description": "劣质蛋糕碎片,气孔粗大,颜色发暗,带杂质",
+          "ai_prompt": "Low-quality cake crumbs, large air holes, dark color, with impurities, poor texture, 3D Pixar style, no text, 16:9"
+        }
+      ]
+    },
+    {
+      "id": "prop_03",
+      "name": "烘焙工具",
+      "base_description": "打蛋器、面粉筛、刮刀、模具等烘焙工具",
+      "variants": [
+        {
+          "variant_id": "prop_03_v1",
+          "label": "打蛋器",
+          "description": "手持打蛋器,金属材质,正在搅拌蛋液",
+          "ai_prompt": "Hand whisk, metal material, whisking egg mixture, motion blur, 3D Pixar style, clean background, no text, 16:9"
+        },
+        {
+          "variant_id": "prop_03_v2",
+          "label": "面粉筛",
+          "description": "面粉筛,粉雾均匀落下",
+          "ai_prompt": "Flour sifter, powder falling evenly, soft dust effect, 3D Pixar style, clean background, no text, 16:9"
+        }
+      ]
+    },
+    {
+      "id": "prop_04",
+      "name": "廉价糖纸",
+      "base_description": "廉价香精糖果的包装纸,是关键证物",
+      "variants": [
+        {
+          "variant_id": "prop_04_v1",
+          "label": "糖纸-展开",
+          "description": "展开的廉价糖纸,上面有明显的廉价香精标识",
+          "ai_prompt": "Cheap candy wrapper, unfolded, obvious cheap flavoring label visible, crumpled texture, 3D Pixar style, clean background, no text except label, 16:9"
+        }
+      ]
+    }
+  ]
+}

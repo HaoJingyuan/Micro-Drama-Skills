@@ -46,20 +46,20 @@
     },
     {
       "id": "char_03",
-      "name": "神秘老人",
-      "base_description": "年迈老人，背影佝偻，戴着斗笠，穿着灰色长袍，面容慈祥但神秘，留着白色长须",
+      "name": "年轻人",
+      "base_description": "年轻男子，身材挺拔，戴着深色头巾，穿着灰白色古装长衫，腰系布带，黑色长裤，草鞋，面容清秀",
       "variants": [
         {
           "variant_id": "char_03_v1",
-          "label": "背影登场",
-          "description": "神秘老人背影，佝偻的身形，戴着竹编斗笠，灰色长袍，拄着木杖",
-          "ai_prompt": "Elderly Chinese man, hunched back, bamboo conical hat, gray robe, wooden cane, white beard, anime style"
+          "label": "侧面登场",
+          "description": "年轻人侧面，挺拔的身形，戴着深色头巾，灰白色古装长衫，腰系布带",
+          "ai_prompt": "Young Chinese man, upright posture, dark headband, gray and white traditional robe with belt, black pants, straw sandals, clean-cut face, anime style"
         },
         {
           "variant_id": "char_03_v2",
-          "label": "正面慈祥",
-          "description": "神秘老人正面，摘下斗笠，露出慈祥的面容，白色长须，眼神睿智",
-          "ai_prompt": "Same character from reference, front view without hat, kind and wise face, white beard, anime style"
+          "label": "正面温和",
+          "description": "年轻人正面，露出温和的面容，戴着深色头巾，眼神坚定而友善",
+          "ai_prompt": "Same character from reference, front view, gentle and friendly face, dark headband, determined yet kind eyes, anime style"
         }
       ]
     }

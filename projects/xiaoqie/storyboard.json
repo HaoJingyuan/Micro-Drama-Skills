@@ -7,7 +7,7 @@
       "episode_number": 1,
       "title": "街角微光，危机暗伏",
       "duration_seconds": 90,
-      "frames": [
+       "frames": [
         {
           "frame_number": 1,
           "time_start": 0.0,
@@ -378,7 +378,7 @@
           "characters": [
             {
               "variant_id": "char_03_v1",
-              "name": "神秘老人",
+              "name": "年轻人",
               "action": "突然出现，拦住张婶",
               "expression": "严肃"
             },
@@ -391,7 +391,7 @@
           ],
           "scene_variant_id": "scene_01_v1",
           "prop_variant_ids": [],
-          "scene_description": "神秘老人突然出现，拦住张婶的手",
+          "scene_description": "年轻人突然出现，拦住张婶的手",
           "camera": {
             "type": "全景",
             "movement": "固定",
@@ -399,7 +399,7 @@
           },
           "narration": null,
           "dialogue": null,
-          "sfx": "拐杖声"
+          "sfx": "脚步声"
         },
         {
           "frame_number": 16,
@@ -408,14 +408,14 @@
           "characters": [
             {
               "variant_id": "char_03_v2",
-              "name": "神秘老人",
+              "name": "年轻人",
               "action": "咬了一口蛋糕",
               "expression": "慈祥"
             }
           ],
           "scene_variant_id": "scene_01_v1",
           "prop_variant_ids": ["prop_01_v1"],
-          "scene_description": "老人咬了一口蛋糕，细细品味",
+          "scene_description": "年轻人咬了一口蛋糕，细细品味",
           "camera": {
             "type": "特写",
             "movement": "固定",
@@ -423,7 +423,7 @@
           },
           "narration": null,
           "dialogue": {
-            "speaker": "神秘老人",
+            "speaker": "年轻人",
             "text": "这蛋糕用老柠檬皮提香，低油低糖无防腐剂",
             "emotion": "平静"
           },
@@ -436,7 +436,7 @@
           "characters": [
             {
               "variant_id": "char_03_v2",
-              "name": "神秘老人",
+              "name": "年轻人",
               "action": "从张婶口袋捻出糖纸",
               "expression": "严肃"
             },
@@ -449,7 +449,7 @@
           ],
           "scene_variant_id": "scene_01_v1",
           "prop_variant_ids": ["prop_03_v1"],
-          "scene_description": "老人指尖捻出张婶口袋里的劣质糖纸",
+          "scene_description": "年轻人指尖捻出张婶口袋里的劣质糖纸",
           "camera": {
             "type": "特写",
             "movement": "固定",
@@ -457,7 +457,7 @@
           },
           "narration": null,
           "dialogue": {
-            "speaker": "神秘老人",
+            "speaker": "年轻人",
             "text": "你儿子肚子疼，是吃了别家的劣质糖果",
             "emotion": "严肃"
           },
@@ -549,7 +549,7 @@
           "characters": [
             {
               "variant_id": "char_03_v2",
-              "name": "神秘老人",
+              "name": "年轻人",
               "action": "递出酵母",
               "expression": "慈祥"
             },
@@ -562,7 +562,7 @@
           ],
           "scene_variant_id": "scene_01_v1",
           "prop_variant_ids": ["prop_02_v1"],
-          "scene_description": "老人递给小满半片干酵母",
+          "scene_description": "年轻人递给小满半片干酵母",
           "camera": {
             "type": "特写",
             "movement": "固定",
@@ -570,7 +570,7 @@
           },
           "narration": null,
           "dialogue": {
-            "speaker": "神秘老人",
+            "speaker": "年轻人",
             "text": "烘培宝典第一式——真材实料，是最好的底气",
             "emotion": "睿智"
           },
@@ -583,14 +583,14 @@
           "characters": [
             {
               "variant_id": "char_03_v2",
-              "name": "神秘老人",
+              "name": "年轻人",
               "action": "转身离开",
               "expression": "神秘"
             }
           ],
           "scene_variant_id": "scene_01_v1",
           "prop_variant_ids": [],
-          "scene_description": "老人转身，背影渐行渐远",
+          "scene_description": "年轻人转身，背影渐行渐远",
           "camera": {
             "type": "全景",
             "movement": "固定",
@@ -598,11 +598,11 @@
           },
           "narration": null,
           "dialogue": {
-            "speaker": "神秘老人",
+            "speaker": "年轻人",
             "text": "好酵母养好面，好心意做好物",
             "emotion": "睿智"
           },
-          "sfx": "拐杖声"
+          "sfx": "脚步声"
         },
         {
           "frame_number": 23,

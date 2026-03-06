@@ -1,0 +1,913 @@
+{
+  "project_name": "街角微光·柠檬小蛋糕",
+  "episode_count": 1,
+  "frames_per_episode": 38,
+  "total_duration_seconds": 90,
+  "visual_style": "3D Pixar-style animation, warm and bright colors, soft lighting, cute proportions, no text bubbles, no dialogue boxes",
+  "episodes": [
+    {
+      "episode_number": 1,
+      "title": "街角微光·柠檬小蛋糕",
+      "duration_seconds": 90,
+      "frames": [
+        {
+          "frame_number": 1,
+          "time_start": 0.0,
+          "time_end": 1.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "快步跳上小凳,双脚踩实凳面,腰背挺直,手稳稳按在操作台边缘",
+              "expression": "专注自信"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "全景快推:小满快步跳上小凳,站姿挺拔,重心下沉,尽显掌控感",
+          "camera": {
+            "type": "全景",
+            "movement": "快推",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "轻脚步声"
+        },
+        {
+          "frame_number": 2,
+          "time_start": 1.0,
+          "time_end": 2.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "手腕发力,手起刀落,一刀削皮,黄皮卷落",
+              "expression": "专注"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": ["prop_01_v2"],
+          "scene_description": "俯拍特写:柠檬落案,小满手起刀落削皮,黄皮卷落,动作沉稳",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "俯视"
+          },
+          "dialogue": null,
+          "sfx": "咔——"
+        },
+        {
+          "frame_number": 3,
+          "time_start": 2.0,
+          "time_end": 3.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "指尖按住柠檬,刀尖极速剔除白瓤,只留黄皮",
+              "expression": "专注"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": ["prop_01_v2"],
+          "scene_description": "侧拍特写:小满指尖按柠檬,刀尖剔除白瓤,身体微前倾,视线紧盯刀尖",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "侧面"
+          },
+          "dialogue": null,
+          "sfx": "刀刮轻响"
+        },
+        {
+          "frame_number": 4,
+          "time_start": 3.0,
+          "time_end": 4.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "侧身站立,单手磕蛋,蛋液精准入碗",
+              "expression": "专注"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "近景:小满侧身站立,单手磕蛋,蛋液精准入碗,站姿不晃",
+          "camera": {
+            "type": "近景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "磕蛋声"
+        },
+        {
+          "frame_number": 5,
+          "time_start": 4.0,
+          "time_end": 6.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "手持打蛋器,手臂快速上下摆动,高速旋转,蛋液瞬间发泡",
+              "expression": "专注"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": ["prop_03_v1"],
+          "scene_description": "特写:小满手持打蛋器高速旋转,手腕灵活发力,蛋液发泡",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "打蛋器风声"
+        },
+        {
+          "frame_number": 6,
+          "time_start": 6.0,
+          "time_end": 7.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "一手持面粉筛悬空,一手快速轻敲筛边,粉雾均匀落下",
+              "expression": "专注"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": ["prop_03_v2"],
+          "scene_description": "平移特写:小满持面粉筛,快速轻敲筛边,粉雾均匀落下,视线锁定碗中",
+          "camera": {
+            "type": "特写",
+            "movement": "平移",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "沙沙声"
+        },
+        {
+          "frame_number": 7,
+          "time_start": 7.0,
+          "time_end": 9.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "手持刮刀,切拌三下成型,面糊细腻无颗粒",
+              "expression": "专注"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "低角近景:小满手持刮刀切拌,身体微前倾,腰背挺直,动作干脆有力",
+          "camera": {
+            "type": "近景",
+            "movement": "固定",
+            "angle": "低角度"
+          },
+          "dialogue": null,
+          "sfx": "刮刀刮碗声"
+        },
+        {
+          "frame_number": 8,
+          "time_start": 9.0,
+          "time_end": 10.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "手腕转动,面糊入模,一抹平整",
+              "expression": "专注"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "快切特写:小满手腕转动,面糊入模,一抹平整,动作利落",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "面糊流动声"
+        },
+        {
+          "frame_number": 9,
+          "time_start": 10.0,
+          "time_end": 11.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "转身,双手端起模具,稳步放入烤箱,关门、拧旋钮",
+              "expression": "自信"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "中景:小满转身端模具放入烤箱,站姿挺拔,转身不慌",
+          "camera": {
+            "type": "中景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "烤箱咔嗒声"
+        },
+        {
+          "frame_number": 10,
+          "time_start": 11.0,
+          "time_end": 12.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "站直,双脚与肩同宽,双手自然垂在身侧,眼神自信",
+              "expression": "自信"
+            },
+            {
+              "variant_id": "char_03_v1",
+              "name": "老街翁",
+              "action": "端坐于街边长椅,静望",
+              "expression": "温和"
+            }
+          ],
+          "scene_variant_id": "scene_02_v1",
+          "prop_variant_ids": [],
+          "scene_description": "远景:小满站直,站姿端正,眼神自信;街边长椅,老街翁端坐静望",
+          "camera": {
+            "type": "远景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "烤箱轻鸣"
+        },
+        {
+          "frame_number": 11,
+          "time_start": 12.0,
+          "time_end": 12.5,
+          "characters": [
+            {
+              "variant_id": "char_02_v1",
+              "name": "张婶",
+              "action": "双脚大步跨入门内,身体前倾,重心在前脚,双臂微张",
+              "expression": "愤怒"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "全景快切:店门被猛地撞开,张婶冲跑姿态,身体失衡却极具冲击力",
+          "camera": {
+            "type": "全景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "哐——!"
+        },
+        {
+          "frame_number": 12,
+          "time_start": 12.5,
+          "time_end": 13.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v1",
+              "name": "张婶",
+              "action": "脚步落地,双脚分开与肩同宽,膝盖微屈,身体前倾,满脸怒气,双手握拳",
+              "expression": "愤怒"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "低角快闪:张婶站姿紧绷,重心下沉,尽显急躁强势",
+          "camera": {
+            "type": "近景",
+            "movement": "固定",
+            "angle": "低角度"
+          },
+          "dialogue": null,
+          "sfx": "咚——(脚步声加重)"
+        },
+        {
+          "frame_number": 13,
+          "time_start": 13.0,
+          "time_end": 13.5,
+          "characters": [
+            {
+              "variant_id": "char_02_v1",
+              "name": "张婶",
+              "action": "双腿蹬地,身体微后仰再前倾,手臂发力,手掌狠狠拍下柜台",
+              "expression": "愤怒"
+            }
+          ],
+          "scene_variant_id": "scene_01_v3",
+          "prop_variant_ids": [],
+          "scene_description": "手部特写:张婶借助身体力量拍桌,动作幅度大,气势拉满",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "砰——!(震台音放大)"
+        },
+        {
+          "frame_number": 14,
+          "time_start": 13.5,
+          "time_end": 14.0,
+          "characters": [],
+          "scene_variant_id": "scene_01_v3",
+          "prop_variant_ids": ["prop_02_v1"],
+          "scene_description": "柜台特写:台面剧烈微震,玻璃柜晃动明显,蛋糕轻微弹跳",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "余震轻响+玻璃轻微碰撞声"
+        },
+        {
+          "frame_number": 15,
+          "time_start": 14.0,
+          "time_end": 19.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v1",
+              "name": "张婶",
+              "action": "怒目圆睁、咬牙切齿,身体大幅前倾,一只手指着小满,另一只手握拳砸向自己大腿",
+              "expression": "愤怒"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "近景仰拍:张婶站姿紧绷,动作夸张,尽显愤怒",
+          "camera": {
+            "type": "近景",
+            "movement": "固定",
+            "angle": "仰视"
+          },
+          "dialogue": {
+            "speaker": "张婶",
+            "text": "你蛋糕害我儿子肚子疼!赔钱!不然我现在就报警,让你这个破店立刻倒闭!",
+            "emotion": "愤怒夸张"
+          },
+          "sfx": "人声放大,带怒气震颤感"
+        },
+        {
+          "frame_number": 16,
+          "time_start": 19.0,
+          "time_end": 21.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v1",
+              "name": "张婶",
+              "action": "双腿微屈,身体再前倾,手臂发力猛扫柜台,动作幅度加大",
+              "expression": "愤怒"
+            }
+          ],
+          "scene_variant_id": "scene_01_v3",
+          "prop_variant_ids": ["prop_02_v1"],
+          "scene_description": "快切手部:张婶借助身体重心,手臂猛扫柜台,动作更具爆发力",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "哗啦——(蛋糕滑落声放大)"
+        },
+        {
+          "frame_number": 17,
+          "time_start": 21.0,
+          "time_end": 23.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v1",
+              "name": "张婶",
+              "action": "站在原地,双手叉腰,双脚分开,身体微微发抖,满脸怒容",
+              "expression": "愤怒"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": ["prop_02_v2"],
+          "scene_description": "快切:蛋糕落地碎裂特写,碎屑飞溅;张婶叉腰站姿,强化强势人设",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "俯视"
+          },
+          "dialogue": null,
+          "sfx": "碎裂声加重"
+        },
+        {
+          "frame_number": 18,
+          "time_start": 23.0,
+          "time_end": 32.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "纹丝不动,双脚与肩同宽,腰背挺直,双手自然垂在身侧,眼神冷稳",
+              "expression": "冷静自信"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "正反打:小满站姿端正,重心稳定,尽显冷静自信;与张婶的急躁形成反差",
+          "camera": {
+            "type": "近景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "dialogue": {
+            "speaker": "林小满",
+            "text": "把剩下的蛋糕给我。",
+            "emotion": "平稳有力"
+          },
+          "sfx": "小满人声平稳,突出冷静"
+        },
+        {
+          "frame_number": 19,
+          "time_start": 32.0,
+          "time_end": 34.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v2",
+              "name": "张婶",
+              "action": "慌乱掏口袋,双脚来回踱步,身体微微晃动,重心不稳,皱巴巴的蛋糕碎狠狠摔在台面上",
+              "expression": "慌乱"
+            }
+          ],
+          "scene_variant_id": "scene_01_v3",
+          "prop_variant_ids": ["prop_02_v3"],
+          "scene_description": "近景:张婶踱步慌乱,站姿不稳,凸显心虚",
+          "camera": {
+            "type": "近景",
+            "movement": "跟拍",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "口袋摩擦声+蛋糕碎落地轻响"
+        },
+        {
+          "frame_number": 20,
+          "time_start": 34.0,
+          "time_end": 36.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "伸手接过,抬手细看,低头轻嗅,动作干脆,无多余停顿",
+              "expression": "专注"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": ["prop_02_v3"],
+          "scene_description": "三帧快切特写:小满接过→细看→轻嗅,动作从容,姿态沉稳",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "指尖摩擦声"
+        },
+        {
+          "frame_number": 21,
+          "time_start": 36.0,
+          "time_end": 38.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "眼神骤亮,瞳孔微缩,嘴角微扬,身体微微站直,肩膀舒展",
+              "expression": "自信笃定"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "眼部特写:小满眼神骤亮,锁定真相,姿态放松却气场十足",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "无(留白,突出眼神高光)"
+        },
+        {
+          "frame_number": 22,
+          "time_start": 38.0,
+          "time_end": 42.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "身体微倾,重心前移,指尖指向蛋糕碎,另一只手自然垂在身侧",
+              "expression": "自信笃定"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": ["prop_02_v3"],
+          "scene_description": "近景侧拍:小满前倾不塌腰,指向动作干脆,气场拉满",
+          "camera": {
+            "type": "近景",
+            "movement": "固定",
+            "angle": "侧面"
+          },
+          "dialogue": {
+            "speaker": "林小满",
+            "text": "我的蛋糕不苦。你的苦。",
+            "emotion": "有力笃定"
+          },
+          "sfx": "人声有力,无杂音"
+        },
+        {
+          "frame_number": 23,
+          "time_start": 42.0,
+          "time_end": 45.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "站在原地,双手背在身后,站姿挺拔",
+              "expression": "自信"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": ["prop_02_v3", "prop_02_v1"],
+          "scene_description": "对比快切:劣质蛋糕碎vs玻璃柜里小满的蛋糕,小满背手站姿,尽显自信从容",
+          "camera": {
+            "type": "特写",
+            "movement": "快切",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "无(视觉冲击优先)"
+        },
+        {
+          "frame_number": 24,
+          "time_start": 45.0,
+          "time_end": 48.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "指尖突然指向张婶的口袋,手臂伸直,身体微微前倾,重心前移,眼神锐利",
+              "expression": "压迫感"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "近景正拍:小满指向动作有力,姿态带压迫感",
+          "camera": {
+            "type": "近景",
+            "movement": "固定",
+            "angle": "正面"
+          },
+          "dialogue": {
+            "speaker": "林小满",
+            "text": "真凶在你口袋。",
+            "emotion": "笃定压迫"
+          },
+          "sfx": "指尖指向'咻'的轻响"
+        },
+        {
+          "frame_number": 25,
+          "time_start": 48.0,
+          "time_end": 51.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v2",
+              "name": "张婶",
+              "action": "下意识双手捂口袋,身体僵硬、眼神躲闪,双脚并拢,重心后移,身体微微发抖",
+              "expression": "慌乱"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": ["prop_04_v1"],
+          "scene_description": "跟拍特写:张婶站姿僵硬,重心后移,凸显慌乱,廉价糖纸从口袋缝隙滑落",
+          "camera": {
+            "type": "特写",
+            "movement": "跟拍",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "布料摩擦声+糖纸落地'沙沙'声"
+        },
+        {
+          "frame_number": 26,
+          "time_start": 51.0,
+          "time_end": 53.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v2",
+              "name": "张婶",
+              "action": "站在原地,双手垂在身侧,双腿微屈,身体瘫软",
+              "expression": "狼狈"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": ["prop_04_v1"],
+          "scene_description": "糖纸落地定格特写:糖纸展开,有明显的廉价香精标识,铁证清晰",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "俯视"
+          },
+          "dialogue": null,
+          "sfx": "无(留白,强化铁证冲击力)"
+        },
+        {
+          "frame_number": 27,
+          "time_start": 53.0,
+          "time_end": 55.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v2",
+              "name": "张婶",
+              "action": "脸色瞬间惨白,嘴唇哆嗦,眼神慌乱无措,身体微微发抖,双脚分开,重心不稳",
+              "expression": "崩溃"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "张婶近景仰拍转俯拍:站姿摇晃,尽显崩溃",
+          "camera": {
+            "type": "近景",
+            "movement": "固定",
+            "angle": "仰视转俯视"
+          },
+          "dialogue": null,
+          "sfx": "张婶急促的呼吸声"
+        },
+        {
+          "frame_number": 28,
+          "time_start": 55.0,
+          "time_end": 58.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v3",
+              "name": "张婶",
+              "action": "低头,脑袋埋得很低,满脸羞愧,肩膀微垮,双手交叉放在身前,双脚并拢,站姿佝偻",
+              "expression": "愧疚"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "近景:张婶站姿佝偻,动作拘谨,凸显愧疚",
+          "camera": {
+            "type": "近景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "呼吸声放缓,带愧疚感"
+        },
+        {
+          "frame_number": 29,
+          "time_start": 58.0,
+          "time_end": 61.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v3",
+              "name": "张婶",
+              "action": "双手搓在一起,身体微微前倾,低头道歉",
+              "expression": "愧疚"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "近景:张婶前倾道歉,动作拘谨,尽显愧疚",
+          "camera": {
+            "type": "近景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "dialogue": {
+            "speaker": "张婶",
+            "text": "对不住……是我错了,我不该乱发脾气、错怪你……",
+            "emotion": "愧疚慌乱"
+          },
+          "sfx": "人声微弱,带歉意"
+        },
+        {
+          "frame_number": 30,
+          "time_start": 61.0,
+          "time_end": 64.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v3",
+              "name": "张婶",
+              "action": "转身就走,脚步慌乱、速度极快,不敢回头,身体前倾,双臂微摆,重心不稳,几乎是小跑",
+              "expression": "慌乱"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "全景快切:张婶小跑姿态,慌乱逃离",
+          "camera": {
+            "type": "全景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "快步声(急促、杂乱)"
+        },
+        {
+          "frame_number": 31,
+          "time_start": 64.0,
+          "time_end": 67.0,
+          "characters": [
+            {
+              "variant_id": "char_02_v3",
+              "name": "张婶",
+              "action": "冲出店门,门被带得轻轻晃动,冲出门时身体失衡,踉跄一下才站稳,继续快步逃离",
+              "expression": "狼狈"
+            }
+          ],
+          "scene_variant_id": "scene_02_v1",
+          "prop_variant_ids": [],
+          "scene_description": "跟拍快切:张婶踉跄姿态,凸显狼狈",
+          "camera": {
+            "type": "中景",
+            "movement": "跟拍",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "门轻响+脚步声渐远"
+        },
+        {
+          "frame_number": 32,
+          "time_start": 67.0,
+          "time_end": 70.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "静立在原地,双脚与肩同宽,腰背挺直,双手自然垂在身侧,眼神平静自信,轻轻瞥了一眼地面碎蛋糕,嘴角微扬",
+              "expression": "平静自信"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": ["prop_02_v2"],
+          "scene_description": "中景:小满站姿端正,姿态从容,尽显掌控感",
+          "camera": {
+            "type": "中景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "无(环境音极轻)"
+        },
+        {
+          "frame_number": 33,
+          "time_start": 70.0,
+          "time_end": 75.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "微微抬眼,看向门口方向,眼神坚定,双脚分开与肩同宽,双手背在身后,站姿挺拔",
+              "expression": "坚定"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": ["prop_02_v2"],
+          "scene_description": "静镜:店内安静,地面碎蛋糕清晰可见,小满背手站姿,自信气场拉满",
+          "camera": {
+            "type": "中景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "环境音极轻(仅轻微呼吸声)"
+        },
+        {
+          "frame_number": 34,
+          "time_start": 75.0,
+          "time_end": 79.0,
+          "characters": [
+            {
+              "variant_id": "char_03_v1",
+              "name": "老街翁",
+              "action": "缓步进店,双脚平稳落地,腰背挺直,双手背在身后,动作轻、脚步稳",
+              "expression": "温和沉稳"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "远景慢推:老街翁站姿端正,步伐平缓,尽显温和沉稳",
+          "camera": {
+            "type": "远景",
+            "movement": "慢推",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "轻脚步声"
+        },
+        {
+          "frame_number": 35,
+          "time_start": 79.0,
+          "time_end": 82.0,
+          "characters": [
+            {
+              "variant_id": "char_03_v1",
+              "name": "老街翁",
+              "action": "拿起一块蛋糕,手臂微屈,动作轻柔,身体微微前倾,低头轻尝一口,表情温和,站姿依旧平稳",
+              "expression": "温和"
+            }
+          ],
+          "scene_variant_id": "scene_01_v3",
+          "prop_variant_ids": ["prop_02_v1"],
+          "scene_description": "近景:老人俯身轻尝,动作优雅,姿态沉稳",
+          "camera": {
+            "type": "近景",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "无"
+        },
+        {
+          "frame_number": 36,
+          "time_start": 82.0,
+          "time_end": 85.0,
+          "characters": [
+            {
+              "variant_id": "char_03_v1",
+              "name": "老街翁",
+              "action": "双手自然垂在身侧,双脚与肩同宽,站姿端正",
+              "expression": "温和"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": [],
+          "scene_description": "近景侧拍:老人站姿沉稳,姿态温和,不张扬",
+          "camera": {
+            "type": "近景",
+            "movement": "固定",
+            "angle": "侧面"
+          },
+          "dialogue": {
+            "speaker": "老街翁",
+            "text": "细节定真假,心定则路宽",
+            "emotion": "温和平缓"
+          },
+          "sfx": "人声轻柔,语速平缓"
+        },
+        {
+          "frame_number": 37,
+          "time_start": 85.0,
+          "time_end": 87.0,
+          "characters": [
+            {
+              "variant_id": "char_03_v1",
+              "name": "老街翁",
+              "action": "放下钱,转身离开,脚步平缓,腰背挺直,双手背在身后,动作轻盈",
+              "expression": "温和"
+            }
+          ],
+          "scene_variant_id": "scene_01_v3",
+          "prop_variant_ids": [],
+          "scene_description": "特写:老人转身平稳,步伐从容,不拖沓",
+          "camera": {
+            "type": "特写",
+            "movement": "固定",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "钱币轻响"
+        },
+        {
+          "frame_number": 38,
+          "time_start": 87.0,
+          "time_end": 90.0,
+          "characters": [
+            {
+              "variant_id": "char_01_v1",
+              "name": "林小满",
+              "action": "眼神坚定,嘴角微扬,双脚与肩同宽,双手背在身后,站姿挺拔",
+              "expression": "坚定自信"
+            }
+          ],
+          "scene_variant_id": "scene_01_v1",
+          "prop_variant_ids": ["prop_02_v1"],
+          "scene_description": "小满特写→蛋糕高光切面快切暗场:小满背手站姿,凸显自信与成长→柠檬蛋糕切面特写(松软多孔、色泽鲜亮)→直接暗场",
+          "camera": {
+            "type": "特写",
+            "movement": "快切",
+            "angle": "平视"
+          },
+          "dialogue": null,
+          "sfx": "轻收声(瞬间消失)"
+        }
+      ]
+    }
+  ]
+}
